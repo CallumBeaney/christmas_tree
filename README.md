@@ -5,7 +5,8 @@ I wanted a little Christmas ASCII animation script to give to folks for a bit of
 
 
 <img src="./img/christmas_card_1.jpg" style="height:400px"> 
-
+<img src="./img/christmas_card_2.jpg" style="height:400px"> 
+<img src="./img/christmas_card_3.jpg" style="height:400px"> 
 <img src="./img/mockFront.jpg" style="height:300px"> <img src="./img/mockBack.jpg" style="width:300px">
   
 ![](./img/bale.jpg)  
